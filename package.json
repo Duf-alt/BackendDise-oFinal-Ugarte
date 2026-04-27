@@ -1,0 +1,13 @@
+{
+  "name": "diseniobackend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.4.2",
+    "express": "^4.x",
+    "mongodb": "^7.2.0",
+    "mongoose": "^7.x"
+  }
+}
